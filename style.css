@@ -1,0 +1,14 @@
+body {
+    margin-left: 850Px;
+    padding: 0;
+    background-image: url("images.jpg");
+    background-size: cover;
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: #ff2aa4;
+    font-weight: 600;
+}
+    .f {
+    max-width: 100px;
+    }
